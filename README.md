@@ -77,6 +77,7 @@ IndusKnow addresses this challenge by transforming scattered industrial data int
 * Improved maintenance decision-making
 * Enhanced compliance readiness
 * Better cross-functional knowledge sharing
-* Reduced operational downtime
+* Reduced operational downtime<img width="936" height="488" alt="Screenshot 2026-06-22 145140" src="https://github.com/user-attachments/assets/869cf7cf-eb94-428d-9b20-7a4063f4b653" />
+
 
 Built for industrial enterprises seeking to transform fragmented documentation into actionable intelligence.
