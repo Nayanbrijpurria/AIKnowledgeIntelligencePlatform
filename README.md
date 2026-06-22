@@ -8,6 +8,70 @@ Industrial organizations often store critical information across disconnected sy
 
 IndusKnow addresses this challenge by transforming scattered industrial data into a searchable, actionable, and continuously updated knowledge ecosystem.
 
+## Architecture Diagram
+
+┌─────────────┐
+│    Users    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ React UI    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ AI Copilot  │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ RAG Engine  │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ Knowledge   │
+│ Repository  │
+└─────────────┘
+
+## Screenshots
+
+<img width="936" height="488" alt="Screenshot 2026-06-22 145140" src="https://github.com/user-attachments/assets/869cf7cf-eb94-428d-9b20-7a4063f4b653" />
+
+<img width="937" height="491" alt="Screenshot 2026-06-22 145240" src="https://github.com/user-attachments/assets/ffa9f23c-48f3-4cfd-a5c3-f95adc7f6584" />
+
+<img width="938" height="493" alt="Screenshot 2026-06-22 145312" src="https://github.com/user-attachments/assets/7dcd3435-f966-44d9-af9d-aea2ff9d0d22" />
+
+<img width="941" height="496" alt="Screenshot 2026-06-22 145342" src="https://github.com/user-attachments/assets/ad1e9008-7c65-4790-91e1-f9c2990401ad" />
+
+<img width="938" height="485" alt="Screenshot 2026-06-22 145204" src="https://github.com/user-attachments/assets/5723f5fd-7d97-47fc-9949-fc8fcb79898e" />
+
+## Technology Stack
+
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### AI Layer
+- Retrieval Augmented Generation (RAG)
+- Large Language Models
+
+### Data Processing
+- OCR
+- Document Parsing
+- Metadata Extraction
+
+### Analytics
+- Predictive Maintenance
+- Compliance Monitoring
+
+### Deployment
+- Vercel
+- GitHub
+
 ## Key Features
 
 ### AI Expert Copilot
@@ -45,30 +109,6 @@ IndusKnow addresses this challenge by transforming scattered industrial data int
 * Equipment health visualization
 * Real-time operational KPIs
 
-## Technology Stack
-
-### Frontend
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-
-### AI Layer
-- Retrieval Augmented Generation (RAG)
-- Large Language Models
-
-### Data Processing
-- OCR
-- Document Parsing
-- Metadata Extraction
-
-### Analytics
-- Predictive Maintenance
-- Compliance Monitoring
-
-### Deployment
-- Vercel
-- GitHub
   
 ## Impact
 
@@ -77,7 +117,9 @@ IndusKnow addresses this challenge by transforming scattered industrial data int
 * Improved maintenance decision-making
 * Enhanced compliance readiness
 * Better cross-functional knowledge sharing
-* Reduced operational downtime<img width="936" height="488" alt="Screenshot 2026-06-22 145140" src="https://github.com/user-attachments/assets/869cf7cf-eb94-428d-9b20-7a4063f4b653" />
+* Reduced operational downtime
 
+
+ 
 
 Built for industrial enterprises seeking to transform fragmented documentation into actionable intelligence.
