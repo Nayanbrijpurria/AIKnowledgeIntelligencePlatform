@@ -47,28 +47,29 @@ IndusKnow addresses this challenge by transforming scattered industrial data int
 
 ## Technology Stack
 
-Frontend:
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
 
-* HTML5
-* CSS3
-* JavaScript
+### AI Layer
+- Retrieval Augmented Generation (RAG)
+- Large Language Models
 
-AI & Intelligence:
+### Data Processing
+- OCR
+- Document Parsing
+- Metadata Extraction
 
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* OCR & Document Intelligence
-* Entity Extraction
-* Knowledge Discovery
+### Analytics
+- Predictive Maintenance
+- Compliance Monitoring
 
-Design System:
-
-* Brutalist Technical UI
-* Near-black industrial theme
-* Amber operational accents
-* Barlow Condensed typography
-* JetBrains Mono data presentation
-
+### Deployment
+- Vercel
+- GitHub
+  
 ## Impact
 
 * Faster access to critical operational knowledge
