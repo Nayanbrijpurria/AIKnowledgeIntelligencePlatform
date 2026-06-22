@@ -10,30 +10,17 @@ IndusKnow addresses this challenge by transforming scattered industrial data int
 
 ## Architecture Diagram
 
-┌─────────────┐
-│    Users    │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ React UI    │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ AI Copilot  │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ RAG Engine  │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ Knowledge   │
-│ Repository  │
-└─────────────┘
+Users
+  ↓
+React Frontend
+  ↓
+AI Intelligence Layer
+  ↓
+RAG Engine
+  ↓
+Knowledge Repository
+  ↓
+Analytics & Compliance Engine
 
 ## Screenshots
 
